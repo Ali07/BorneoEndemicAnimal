@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Borneo Endemics Animal</string>
+    <string name="animals_name">Nama Hewan</string>
+    <string name="detail">Detail</string>
+    <string name="nameLatin">nameLatin</string>
+    <string name="filum">Filum</string>
+    <string name="kelas">Kelas</string>
+    <string name="ordo">Ordo</string>
+    <string name="famili">Famili</string>
+    <string name="genus">Genus</string>
+</resources>
